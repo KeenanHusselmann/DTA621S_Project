@@ -6,4 +6,4 @@
 * Improve service delivery,
 * Optimize product offerings, and
 * Enhance customer satisfaction and loyalty.
-## By leveraging data analytics techniques such as data cleaning, preprocessing, predictive modeling, and ongoing evaluation, the supermarket aims to unlock insights from customer spending behavior to drive better decision-## making and improve overall business performance.
+## By leveraging data analytics techniques such as data cleaning, preprocessing, predictive modeling, and ongoing evaluation, the supermarket aims to unlock insights from customer spending behavior to drive better decision-making and improve overall business performance.
