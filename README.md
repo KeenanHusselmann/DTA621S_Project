@@ -2,7 +2,7 @@
 ## Numpy Supermarket Data Analysis¶
 
 ## Problem Statement
-## The Numpy supermarket chain, operating in Windhoek and across Namibia, is facing challenges in making data-driven decisions to improve business performance. Despite having vast amounts of customer transaction data, this ##data is underutilized. This limits the supermarket's ability to:
+## The Numpy supermarket chain, operating in Windhoek and across Namibia, is facing challenges in making data-driven decisions to improve business performance. Despite having vast amounts of customer transaction data, this data is underutilized. This limits the supermarket's ability to:
 * Improve service delivery,
 * Optimize product offerings, and
 * Enhance customer satisfaction and loyalty.
